@@ -2,7 +2,7 @@
 <!-- ![todos-gif](https://user-images.githubusercontent.com/84085280/174052188-6e7ee848-0787-43f0-821e-09e7263a798c.gif) -->
 
 <div align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/84085280/174052188-6e7ee848-0787-43f0-821e-09e7263a798c.gif">
+  <img width="600" height="310" src="https://user-images.githubusercontent.com/84085280/174052188-6e7ee848-0787-43f0-821e-09e7263a798c.gif">
 </div>
 
 My first <b>javascipt</b> project.

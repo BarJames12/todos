@@ -5,7 +5,7 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/84085280/174052188-6e7ee848-0787-43f0-821e-09e7263a798c.gif">
 </div>
 
-My first javascipt project.
+My first <b>javascipt</b> project.
 
 Todo list with vanilla javascript, HTML and css.  
 You can write your self a note ,or some task, and save it for your self.

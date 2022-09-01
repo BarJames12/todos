@@ -5,7 +5,10 @@
   <img width="600" height="310" src="https://user-images.githubusercontent.com/84085280/174052188-6e7ee848-0787-43f0-821e-09e7263a798c.gif">
 </div>
 
-My first <b>javascipt</b> project.
+barjames12.github.io/todos/
 
-Todo list with vanilla javascript, HTML and css.  
+My first <b>javascipt</b> project.
+Todos is a simple app. 
+build with vanilla javascript, HTML and css.
 You can write your self a note ,or some task, and save it for your self.
+All your notes save in the local storage. 

@@ -5,7 +5,7 @@
   <img width="600" height="310" src="https://user-images.githubusercontent.com/84085280/174052188-6e7ee848-0787-43f0-821e-09e7263a798c.gif">
 </div>
 
-https://barjames12.github.io/todos/
+<b> https://barjames12.github.io/todos/ </b>
 
 My first <b>javascipt</b> project. </br>
 Todos is a simple app.  </br>

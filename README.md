@@ -9,6 +9,6 @@ barjames12.github.io/todos/
 
 My first <b>javascipt</b> project. </br>
 Todos is a simple app.  </br>
-build with vanilla javascript, HTML and css.  </br>
+Was built with vanilla javascript, HTML and css.  </br>
 You can write your self a note ,or some task, and save it for your self.  </br>
-All your notes save in the local storage. 
+All your notes are save in the local storage of the browser. 
